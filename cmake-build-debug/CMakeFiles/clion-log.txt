@@ -1,0 +1,4 @@
+"C:\Program Files\CMake\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug "-DCMAKE_MAKE_PROGRAM=C:/Program Files/JetBrains/CLion 2021.3.2/bin/ninja/win/ninja.exe" -G Ninja H:\cpp_learning\cpp_learning
+-- Configuring done
+-- Generating done
+-- Build files have been written to: H:/cpp_learning/cpp_learning/cmake-build-debug
